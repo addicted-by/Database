@@ -1,0 +1,294 @@
+commandbutton
+Error in line 101: Unrecognized command verb.
+commandbutton
+Error in line 102: Unrecognized command verb.
+þ
+Error in line 173: Unrecognized command verb.
+Alignment = 2
+Error in line 183: Statement is not in a procedure.
+Caption = "Information about object"
+Error in line 184: Statement is not in a procedure.
+Height = 32
+Error in line 185: Statement is not in a procedure.
+Left = 12
+Error in line 186: Statement is not in a procedure.
+Top = 180
+Error in line 187: Statement is not in a procedure.
+Visible = .F.
+Error in line 188: Statement is not in a procedure.
+Width = 492
+Error in line 189: Statement is not in a procedure.
+Name = "Label6"
+Error in line 190: Statement is not in a procedure.
+Height = 17
+Error in line 192: Statement is not in a procedure.
+Left = 108
+Error in line 193: Statement is not in a procedure.
+Top = 132
+Error in line 194: Statement is not in a procedure.
+Width = 61
+Error in line 195: Statement is not in a procedure.
+Name = "Label7"
+Error in line 196: Statement is not in a procedure.
+Left = 172
+Error in line 198: Statement is not in a procedure.
+Top = 129
+Error in line 199: Statement is not in a procedure.
+Width = 229
+Error in line 200: Statement is not in a procedure.
+Name = "phone"
+Error in line 201: Statement is not in a procedure.
+Left = 62
+Error in line 203: Statement is not in a procedure.
+Top = 224
+Error in line 204: Statement is not in a procedure.
+Visible = .F.
+Error in line 205: Statement is not in a procedure.
+Width = 100
+Error in line 206: Statement is not in a procedure.
+Name = "address"
+Error in line 207: Statement is not in a procedure.
+Height = 20
+Error in line 209: Statement is not in a procedure.
+Left = 13
+Error in line 210: Statement is not in a procedure.
+Top = 228
+Error in line 211: Statement is not in a procedure.
+Visible = .F.
+Error in line 212: Statement is not in a procedure.
+Width = 50
+Error in line 213: Statement is not in a procedure.
+Name = "Label8"
+Error in line 214: Statement is not in a procedure.
+Height = 17
+Error in line 216: Statement is not in a procedure.
+Left = 167
+Error in line 217: Statement is not in a procedure.
+Top = 228
+Error in line 218: Statement is not in a procedure.
+Visible = .F.
+Error in line 219: Statement is not in a procedure.
+Width = 40
+Error in line 220: Statement is not in a procedure.
+Name = "Label9"
+Error in line 221: Statement is not in a procedure.
+Left = 205
+Error in line 223: Statement is not in a procedure.
+Top = 224
+Error in line 224: Statement is not in a procedure.
+Visible = .F.
+Error in line 225: Statement is not in a procedure.
+Width = 100
+Error in line 226: Statement is not in a procedure.
+Name = "metro"
+Error in line 227: Statement is not in a procedure.
+Height = 17
+Error in line 229: Statement is not in a procedure.
+Left = 312
+Error in line 230: Statement is not in a procedure.
+Top = 227
+Error in line 231: Statement is not in a procedure.
+Visible = .F.
+Error in line 232: Statement is not in a procedure.
+Width = 85
+Error in line 233: Statement is not in a procedure.
+Name = "Label10"
+Error in line 234: Statement is not in a procedure.
+Left = 403
+Error in line 236: Statement is not in a procedure.
+Top = 223
+Error in line 237: Statement is not in a procedure.
+Visible = .F.
+Error in line 238: Statement is not in a procedure.
+Width = 100
+Error in line 239: Statement is not in a procedure.
+Name = "price"
+Error in line 240: Statement is not in a procedure.
+Height = 17
+Error in line 242: Statement is not in a procedure.
+Left = 14
+Error in line 243: Statement is not in a procedure.
+Top = 260
+Error in line 244: Statement is not in a procedure.
+Visible = .F.
+Error in line 245: Statement is not in a procedure.
+Width = 47
+Error in line 246: Statement is not in a procedure.
+Name = "Label11"
+Error in line 247: Statement is not in a procedure.
+Height = 17
+Error in line 249: Statement is not in a procedure.
+Left = 165
+Error in line 250: Statement is not in a procedure.
+Top = 259
+Error in line 251: Statement is not in a procedure.
+Visible = .F.
+Error in line 252: Statement is not in a procedure.
+Width = 47
+Error in line 253: Statement is not in a procedure.
+Name = "Label12"
+Error in line 254: Statement is not in a procedure.
+Left = 205
+Error in line 256: Statement is not in a procedure.
+Top = 255
+Error in line 257: Statement is not in a procedure.
+Visible = .F.
+Error in line 258: Statement is not in a procedure.
+Width = 100
+Error in line 259: Statement is not in a procedure.
+Name = "square"
+Error in line 260: Statement is not in a procedure.
+Height = 17
+Error in line 262: Statement is not in a procedure.
+Left = 313
+Error in line 263: Statement is not in a procedure.
+Top = 260
+Error in line 264: Statement is not in a procedure.
+Visible = .F.
+Error in line 265: Statement is not in a procedure.
+Width = 47
+Error in line 266: Statement is not in a procedure.
+Name = "Label13"
+Error in line 267: Statement is not in a procedure.
+commandbutton
+Error in line 269: Unrecognized command verb.
+commandbutton
+Error in line 270: Unrecognized command verb.
+Left = 12
+Error in line 271: Statement is not in a procedure.
+Height = 49
+Error in line 272: Statement is not in a procedure.
+Width = 494
+Error in line 273: Statement is not in a procedure.
+Caption = "Add in database"
+Error in line 274: Statement is not in a procedure.
+Visible = .F.
+Error in line 275: Statement is not in a procedure.
+Name = "Command2"
+Error in line 276: Statement is not in a procedure.
+LOCAL patr, g, pas, phone, met, adr, prc, ro, sq, ty, fl, m1, m2
+Error in line 278: Statement is not in a procedure.
+phone=ALLTRIM(THISFORM.phone.Text)
+Error in line 279: Statement is not in a procedure.
+adr=ALLTRIM(THISFORM.address.Text)
+Error in line 280: Statement is not in a procedure.
+prc=ALLTRIM(THISFORM.price.Text)
+Error in line 281: Statement is not in a procedure.
+ro=ALLTRIM(THISFORM.Numb.Text)
+Error in line 282: Statement is not in a procedure.
+sq=ALLTRIM(THISFORM.square.Text)
+Error in line 283: Statement is not in a procedure.
+ty=ALLTRIM(THISFORM.type.Text)
+Error in line 284: Statement is not in a procedure.
+fl = ALLTRIM(THISFORM.floor.Text)
+Error in line 285: Statement is not in a procedure.
+met = ALLTRIM(THISFORM.metro.Text)
+Error in line 286: Statement is not in a procedure.
+FOR EACH obj IN THISFORM.Objects
+Error in line 288: Statement is not in a procedure.
+IF AT('Text',obj.Name)>0 AND LEN(ALLTRIM(obj.Text))=0 THEN
+Error in line 289: Statement is not in a procedure.
+obj.BackColor=RGB(255,120,120)
+Error in line 290: Statement is not in a procedure.
+ENDIF
+Error in line 291: Statement is not in a procedure.
+ENDFOR
+Error in line 292: Statement is not in a procedure.
+SELECT MAX(owners.owner_id) AS m1 FROM owners INTO CURSOR tmp1
+Error in line 293: Statement is not in a procedure.
+LOCAL clid1
+Error in line 294: Statement is not in a procedure.
+clid1=tmp1.m1
+Error in line 295: Statement is not in a procedure.
+IF ISNULL(clid1) THEN
+Error in line 297: Statement is not in a procedure.
+clid1=1
+Error in line 298: Statement is not in a procedure.
+ENDIF
+Error in line 299: Statement is not in a procedure.
+SELECT MAX(a.apart_id)+1 AS m2 FROM apartments a INTO CURSOR tmp2
+Error in line 302: Statement is not in a procedure.
+LOCAL clid
+Error in line 303: Statement is not in a procedure.
+clid=tmp2.m2
+Error in line 304: Statement is not in a procedure.
+IF ISNULL(clid) THEN
+Error in line 306: Statement is not in a procedure.
+clid=1
+Error in line 307: Statement is not in a procedure.
+ENDIF
+Error in line 308: Statement is not in a procedure.
+CLOSE TABLES
+Error in line 310: Statement is not in a procedure.
+INSERT INTO apartments(apart_id, address, metro, price, owner_id, rooms, square, phone, floor, type) VALUES (clid, adr, met, VAL(prc), clid1, VAL(ro), VAL(sq), phone, VAL(fl), ty)
+Error in line 313: Statement is not in a procedure.
+=MESSAGEBOX('Object was added', 0, 'Congrat!')
+Error in line 315: Statement is not in a procedure.
+FOR EACH obj IN THISFORM.Controls
+Error in line 318: Statement is not in a procedure.
+IF AT('Text',obj.Name)>0 THEN
+Error in line 319: Statement is not in a procedure.
+obj.value=''
+Error in line 320: Statement is not in a procedure.
+ENDIF
+Error in line 321: Statement is not in a procedure.
+IF AT('Combo',obj.Name)>0 THEN
+Error in line 322: Statement is not in a procedure.
+obj.value=0
+Error in line 323: Statement is not in a procedure.
+ENDIF
+Error in line 324: Statement is not in a procedure.
+IF AT('Option',obj.Name)>0 THEN
+Error in line 325: Statement is not in a procedure.
+obj.value=1
+Error in line 326: Statement is not in a procedure.
+ENDIF
+Error in line 327: Statement is not in a procedure.
+ENDFOR
+Error in line 328: Statement is not in a procedure.
+ENDPROC
+Error in line 329: Nesting error.
+Left = 360
+Error in line 350: Statement is not in a procedure.
+Top = 256
+Error in line 351: Statement is not in a procedure.
+Visible = .F.
+Error in line 352: Statement is not in a procedure.
+Width = 144
+Error in line 353: Statement is not in a procedure.
+Name = "type"
+Error in line 354: Statement is not in a procedure.
+Height = 23
+Error in line 356: Statement is not in a procedure.
+Left = 12
+Error in line 357: Statement is not in a procedure.
+Top = 300
+Error in line 358: Statement is not in a procedure.
+Visible = .F.
+Error in line 359: Statement is not in a procedure.
+Width = 47
+Error in line 360: Statement is not in a procedure.
+Name = "Label14"
+Error in line 361: Statement is not in a procedure.
+Left = 60
+Error in line 363: Statement is not in a procedure.
+Top = 299
+Error in line 364: Statement is not in a procedure.
+Visible = .F.
+Error in line 365: Statement is not in a procedure.
+Width = 93
+Error in line 366: Statement is not in a procedure.
+Name = "floor"
+Error in line 367: Statement is not in a procedure.
+Left = 60
+Error in line 369: Statement is not in a procedure.
+Top = 257
+Error in line 370: Statement is not in a procedure.
+Visible = .F.
+Error in line 371: Statement is not in a procedure.
+Width = 102
+Error in line 372: Statement is not in a procedure.
+Name = "numb"
+Error in line 373: Statement is not in a procedure.
+Arial, 0, 9, 5, 15, 12, 32, 3, 0
+Error in line 375: Unrecognized command verb.
