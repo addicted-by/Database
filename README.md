@@ -1,7 +1,6 @@
 # Database Theory
+5th semestr 3d course education
 
- 5th semestr 3d course education
----
 ## Title: Real Estate Agency
 ---
 # Reports
